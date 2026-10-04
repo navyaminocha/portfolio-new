@@ -2,7 +2,7 @@
 
 A personal portfolio showcasing my journey in **Artificial Intelligence, Machine Learning, Software Development, and Research**. This website brings together my projects, technical skills, experiences, and interests in building technology-driven solutions.
 
-🌐 **Live Portfolio:** 
+🌐 **Live Portfolio:** [On Render](https://portfolio-navya.onrender.com)
 💼 **LinkedIn:** [Navya Minocha](https://www.linkedin.com/)
 💻 **GitHub:** [navyaminocha](https://github.com/navyaminocha)
 
